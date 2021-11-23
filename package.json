@@ -18,5 +18,8 @@
     "framework"
   ],
   "author": "chatpta team",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "pg": "^8.7.1"
+  }
 }
