@@ -1,5 +1,5 @@
 {
-  "name": "chatpta-orm",
+  "name": "@chatpta/chatpta-orm",
   "version": "1.0.0",
   "description": "Object relation mapping framework for postgress",
   "main": "index.js",
