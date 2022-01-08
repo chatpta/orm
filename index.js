@@ -1,1 +1,4 @@
-module.exports = require( './lib/ActiveRecord' );
+module.exports = {
+    activeRecord: require( './lib/ActiveRecord' )
+}
+

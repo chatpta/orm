@@ -1,6 +1,6 @@
 {
   "name": "@chatpta/chatpta-orm",
-  "version": "1.0.0",
+  "version": "3.0.0",
   "description": "Object relation mapping framework for postgress",
   "main": "index.js",
   "scripts": {
